@@ -108,7 +108,7 @@ and find your network and your IP.
 
 After that change directory to ~/odometry/gscam/examples and create a new launch file called ‘raspicam.launch’:
 
-    $ cd /odometry/gscam/examples
+    $ cd /odometry/src/gscam/examples
     $ vi raspicam.launch
 
 Paste the following and save it:
